@@ -1,23 +1,26 @@
-<h1 align="center">Hi 👋! I am Mattix</h1>
-<h3 align="center">For support contat me on Discord!</h3>
+## About Me
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mattixoff&label=Profile%20views&color=0e75b6&style=flat" alt="mattixoff" /> </p>
+Hi! I’m 15 years old and **passionate** about programming and technology. I love learning new things and applying my knowledge by creating interesting and fun projects. So far, I have studied and learned several languages and tools, including **Bash, HTML, CSS, JavaScript, Python, and Java.** Currently, I’m diving deeper into **React.j**s to develop modern and dynamic web applications.
 
-- 🍉 I am developer on [FruitMC](https://discord.gg/aX4BfuewTJ)
+I enjoy exploring new **tools**, experimenting with code, and finding creative solutions to problems. My goal is to **grow as a programmer**, keep learning, and contribute to projects that can make a difference.
 
-- 📋 I am leaning **C++ and C**
+## My Skills
 
-- 💻 I'm working on **Coming soon**
+<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"> 
+<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> 
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff"> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"> 
 
-- 💻 I have experience with **JavaScript, TypeScript, HTML, CSS, React, Node.JS**
+## GitHub Stats
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/c/moddedmatti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="moddedmatti" height="30" width="40" /></a>
-</p>
+<table><tbody><tr border="none"><td width="50%" align="center">
+<img align="middle" src="https://readme-stats-fork-mauve.vercel.app/api/?username=Mattixoff&theme=dark&show_icons=true&count_private=true">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=Mattixoff&theme=dark"></td><td width="50%" align="center">
+<img align="middle" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=Mattixoff&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/novanta"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="novanta" /></a></p><br><br>
+## Connect with me
+
+<p align="center">🔗 Discord: <a href="<https://discord.com/users/1192526775541043291>" target="_blank">Mattix_off</a></p>
